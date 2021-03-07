@@ -120,9 +120,10 @@ As final considerations:
 
 * You must use the Pandas Library and the Jupyter Notebook.
 * You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
-# * You must include a written description of three observable trends based on the data.
+### * You must include a written description of three observable trends based on the data.
 
-    * Males by far purhase more than their female and other counterparts. 
-    * These purchases also account for the amount of type of player in that the vast majority of video game players are 84% male.
-    * The age group between 20-24 account for the highest age range group to be a player and the age group to make the most purchases.
+        * Males by far purhase more than their female and other counterparts. 
+        * These purchases also account for the amount of type of player in that the vast majority of video game players are 84% male.
+        * The age group between 20-24 account for the highest age range group to be a player and the age group to make the most purchases.
+
 * See Example Solution for a reference on expected format.
